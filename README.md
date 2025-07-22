@@ -1,6 +1,7 @@
 # hello.
 
-![Banner Image](https://www.pinterest.com/pin/66357794501457285/)
+![Banner Image](![276e4c24ce95cbf45885e03436ad1ff8](https://github.com/user-attachments/assets/c1a8f9f3-e8f2-4ea9-ab70-10fd9db5b08f)
+)
 
 ## get to know me
 
